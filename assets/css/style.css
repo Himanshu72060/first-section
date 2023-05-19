@@ -142,3 +142,9 @@
 .padding-b-140 {
   padding-bottom: 140px;
 }
+.m-l-30 {
+  margin-left: -30px;
+  color: rgba(21, 20, 57, 0.4);
+  font-size: 20px;
+  line-height: 26px;
+}
